@@ -1,6 +1,6 @@
 <template>
   <ReloadPWA />
-  <HelloWorld msg="Hello Vue 3 + Vite" />
+  <HelloWorld msg="Hola, soy una PWA" />
 </template>
 <script lang="ts">
 import { defineComponent } from "vue";
